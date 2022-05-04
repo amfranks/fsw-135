@@ -1,0 +1,19 @@
+{
+  "name": "user-authentication",
+  "version": "1.0.0",
+  "description": "* git clone -b part-1-start https://github.com/v-school/rlm-token-auth-series-context.git\r     * cd rlm-token-auth-series-context\r     * code .",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.5",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.15"
+  }
+}
